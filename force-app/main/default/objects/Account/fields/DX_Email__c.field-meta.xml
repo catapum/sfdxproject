@@ -2,7 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>DX_Email__c</fullName>
     <externalId>false</externalId>
-    <label>DX Email</label>
+    <label>DX Email This is a change</label>
     <required>false</required>
     <trackFeedHistory>false</trackFeedHistory>
     <type>Email</type>
